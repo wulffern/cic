@@ -4,3 +4,6 @@
 [submodule "oscic"]
 	path = oscic
 	url = https://github.com/wulffern/oscic
+[submodule "cic2verilog"]
+	path = cic2verilog
+	url = https://github.com/wulffern/cic2verilog
