@@ -2,7 +2,9 @@
 cIc collection
 
 # Introduction
-cIcCreator was started as an exploritory effort to try and see if I could simplify how we make ICs. It's been 30 years of development, and we still draw
+cIcCreator was started as an exploritory effort to try and see if I
+could simplify how we make ICs. The industry has been making
+integrated circuits for more than 30 years, and we still draw
 schematics, and do manual layout. We must find something better.
 
 # Submodules
