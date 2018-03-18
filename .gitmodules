@@ -1,0 +1,6 @@
+[submodule "ciccreator"]
+	path = ciccreator
+	url = https://github.com/wulffern/ciccreator
+[submodule "oscic"]
+	path = oscic
+	url = https://github.com/wulffern/oscic
