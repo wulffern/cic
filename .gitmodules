@@ -1,9 +1,16 @@
 [submodule "ciccreator"]
 	path = ciccreator
 	url = https://github.com/wulffern/ciccreator
+	branch = develop
 [submodule "oscic"]
 	path = oscic
 	url = https://github.com/wulffern/oscic
+	branch = master
 [submodule "cic2verilog"]
 	path = cic2verilog
 	url = https://github.com/wulffern/cic2verilog
+	branch = master
+[submodule "cictools"]
+	path = cictools
+	url = https://github.com/wulffern/cictools
+	branch = master
